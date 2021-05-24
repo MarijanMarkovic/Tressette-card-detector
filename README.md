@@ -1,4 +1,4 @@
-# Tressette-card-detector
+# Tressette card detector
 This is a python program that uses openCV and Tensorflow 2.x libraries to detect Tresette playing cards on an image or a webcam feed. It is created using Tensorflow's
 [Object Detection API](https://stackoverflow.com/questions/14494747/how-to-add-images-to-readme-md-on-github.md) on Windows.
 Tressette card detector was trained on a pretrained efficientdet_d1_coco17_tpu-32 model downloaded from the [Model Zoo.](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md)
